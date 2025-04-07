@@ -70,7 +70,7 @@ function App() {
   return (
     <div className="app-container">
       <div className="glass-box">
-        <h1 className="title">BugFinder <span role="img">🔍</span></h1>
+        <h1 className="title">CodexAudit <span role="img">🔍</span></h1>
 
         <input
           type="text"
